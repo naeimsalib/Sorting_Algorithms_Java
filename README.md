@@ -10,4 +10,4 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 
 <h1>SelectionSort.java</h1><br />
 
-In computer science, selection sort is an in-place comparison sorting algorithm. It has an O(n²) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort.</P>
+selection sort is an in-place comparison sorting algorithm. It has an O(n²) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort.</P>
